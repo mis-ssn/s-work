@@ -6,3 +6,8 @@ git commit -m"" 日志留言
 git reflog 查看之前最新的版本号
 git push 上传到线上仓库
 git pull 把线上仓库的内容下载到本地仓库
+git branch 查看分支
+git branch 分支名  创建新分支
+git checkout 分支名  切换分支
+git branch -d 分支名  删除分支
+git merge 被合并的分支名  合并分支
