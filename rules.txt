@@ -1,0 +1,8 @@
+git log --pretty=oneline  查看版本
+git log
+git status 查看状态
+git reset --hard 版本号
+git commit -m"" 日志留言
+git reflog 查看之前最新的版本号
+git push 上传到线上仓库
+git pull 把线上仓库的内容下载到本地仓库
