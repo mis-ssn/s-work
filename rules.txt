@@ -11,3 +11,9 @@ git branch 分支名  创建新分支
 git checkout 分支名  切换分支
 git branch -d 分支名  删除分支
 git merge 被合并的分支名  合并分支
+touch .gitignore文件  作为忽略文件，用于声明忽略文件或不忽略文件的规则
+写在忽略文件里面：
+/file/  过滤整个文件夹
+*.zip  过滤所有.zip文件
+/file/do.c  过滤某个具体文件
+lindex.php  不过滤具体某个文件
